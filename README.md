@@ -10,4 +10,17 @@ I am always looking for opportunities to expand my knowledge and skills, whether
 
 Thank you for your time!
 
-This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics
+This repository serves to showcase my skills and as a platform to share my projects.
+
+# Table of contents
+
+- [Profile](#profile)
+- 
+
+
+
+# Portfolio Projects & Study Case
+
+In this section I will list a data analysis project that briefly describes the technology and methods used to solve the case.
+
+## Quantitative Data Analysis with Python (Case Study: Cookie Cats Game)
