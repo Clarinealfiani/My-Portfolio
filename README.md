@@ -23,4 +23,24 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 In this section I will list a data analysis project that briefly describes the technology and methods used to solve the case.
 
-## Quantitative Data Analysis with Python (Case Study: Cookie Cats Game)
+### Quantitative Data Analysis with Python (Case Study: Cookie Cats Game)
+
+**Code:**
+
+**Description:**
+
+**Skills:**
+
+**Technical:**
+
+**Result:**
+
+### Quantitative Data Analysis with Python (Case Study: Cookie Cats Game)
+
+**Code:**
+
+**Description:**
+
+**Skills:**
+**Technical:**
+**Result:**
