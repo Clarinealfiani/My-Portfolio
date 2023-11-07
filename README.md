@@ -21,7 +21,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 # Portfolio Projects & Study Case
 
-In this section I will list a data analysis project that briefly describes the technology and methods used to solve the case.
+In this section, there is my data analysis project that briefly describes the technology and methods used to solve the case.
 
 ### Quantitative Data Analysis with Python (Case Study: Cookie Cats Game)
 
